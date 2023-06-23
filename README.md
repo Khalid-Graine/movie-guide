@@ -1,4 +1,5 @@
 # movieApp
+![Screenshot](https://github.com/Khalid-Graine/vue-api-movie-guide/assets/103308541/04b5d82c-d41d-4239-900e-f04b7fddda33)
 
 This template should help get you started developing with Vue 3 in Vite.
 
